@@ -1,0 +1,5 @@
+{
+  name: "ESCHW Home Assistant apps"
+  url: "https://github.com/eschweighofer/ha-app-eschw"
+  maintainer: "Erik Schweighofer <eschweighofer@gmail.com>"
+}
